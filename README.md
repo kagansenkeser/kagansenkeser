@@ -1,4 +1,4 @@
-[![MasterHead](https://images4.alphacoders.com/131/1314741.jpg)
+![MasterHead](https://images4.alphacoders.com/131/1314741.jpg)
 <h1 align="center">Hi 👋, I'm Kagan Senkeser</h1>
 <h3 align="center">A passionate computer vision engineer</h3>
 
