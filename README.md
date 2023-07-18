@@ -29,5 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagansenkeser&" alt="kagansenkeser" /></p>
 
-<img align="right" alt="Coding" width="400" src=https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only>
-
+![snake gif](https://github.com/kagansenkeser/kagansenkeser/blob/output/github-contribution-grid-snake.gif)
