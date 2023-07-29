@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on object detection **yarn bobinn deflection detection**
 
-- 🌱 I’m currently learning **Object detection and Tracking **
+- 🌱 I’m currently learning   **Object detection and Tracking **
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/@kagansenkeserteknik](https://www.youtube.com/@kagansenkeserteknik)
 
