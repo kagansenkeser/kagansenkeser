@@ -4,7 +4,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagansenkeser&label=Profile%20views&color=0e75b6&style=flat" alt="kagansenkeser" /> </p>
 
-- 🔭 I’m currently working on embeded system in BOSCH
+- 🔭 I’m currently working on computer vision in BOSCH
 
 - 🌱 I’m currently learning   **Object detection and Tracking **
 
