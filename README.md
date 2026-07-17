@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Machine Vision Banner" width="100%">
+</p>
+
 # Kağan Şenkeser
 
 ### Machine Vision Engineer
