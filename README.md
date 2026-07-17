@@ -1,40 +1,109 @@
-<h1 align="center">Hi 👋, I'm Kagan Senkeser</h1>
-<h3 align="center">A computer vision engineer</h3>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kagansenkeser&label=Profile%20views&color=0e75b6&style=flat" alt="kagansenkeser" /> </p>
+# Kağan Şenkeser
 
-- 🔭 I’m currently working on computer vision in BOSCH
+### Machine Vision Engineer
 
-- 🌱 I’m currently learning   **Object detection and Tracking **
+Machine Vision Engineer with hands-on experience in designing, developing, and integrating industrial vision systems for manufacturing automation. Passionate about computer vision, embedded vision, robotics, and AI-based inspection systems.
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/@kagansenkeserteknik](https://www.youtube.com/@kagansenkeserteknik)
+---
 
-- 📫 How to reach me **kagansenkeser@gmail.com**
+## About Me
 
-- 📫 How to reach me **https://tr.linkedin.com/in/kagan-senkeser-b525531ba**
+- 🔍 Specialized in industrial machine vision and computer vision
+- 🤖 Experienced with industrial vision systems and manufacturing automation
+- 📷 Interested in optical systems, camera calibration, and image processing
+- 🧠 Developing AI-powered inspection solutions using deep learning
+- 🌱 Currently building an open-source industrial machine vision portfolio
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://tr.linkedin.com/in/kagan-senkeser-b525531ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kagan senkeser" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kagansenkeserteknik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kagansenkeserteknik" height="30" width="40" /></a>
+## Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Computer Vision & AI
+<p>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kagansenkeser&show_icons=true&locale=en&layout=compact" alt="kagansenkeser" /></p>
+**Libraries & Frameworks**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kagansenkeser&show_icons=true&locale=en" alt="kagansenkeser" /></p>
+- OpenCV
+- HALCON
+- YOLOv8 (Ultralytics)
+- MediaPipe
+- NumPy
+- TensorFlow
+- PyTorch
+- Keras
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kagansenkeser&" alt="kagansenkeser" /></p>
+### Industrial Machine Vision
 
+- Cognex In-Sight
+- Keyence IV Series
+- Industrial Cameras
+- Camera Calibration
+- Optical Systems
+- Lighting Design
+- Lens Selection
+- Barcode Reading
+- OCR
+- Defect Detection
 
-|Project|Showcase|Video|Description|
-|:----:|:----:|:----:|:----:|
-| [Yektech_uav](https://github.com/kagansenkeser/My_Resume_real_projects/tree/main/1_Yektech_uav)| <img width="380" src="https://media.giphy.com/media/Y9LVe2S9DFQbyMVWTE/giphy.gif" /> |[Watch Now](https://www.youtube.com/shorts/yJNOwGXut3I) | I worked on color and shape contour detection using the OpenCV library of Python language on Raspberry Pi 4. </br> |
-| [Blackbird_ucav](https://github.com/kagansenkeser/My_Resume_real_projects/tree/main/2_Blackbird_ucav)| <img src="https://media.giphy.com/media/Y1msM5bjyXra05Hnxc/giphy.gif" /> |[Watch Now](https://www.youtube.com/watch?v=0LV4xBUiihs) |I trained a specific object detection model using YOLOv8 and the real-time tracking of the detected object through the camera.</br> |
-| [bottle_waste_sorting_system](https://github.com/kagansenkeser/My_Resume_real_projects/tree/main/4_bottle_waste_sorting_system)| <img src="https://media.giphy.com/media/6GXu34VfksBbf5Y2gF/giphy.gif" /> |[Coming Soon](https://www.youtube.com/@kagansenkeserteknik) | I contributed to the development of a reverse vending machine designed to separate glass, plastic, and metal bottles for recycling. My role involved implementing an artificial intelligence system using YOLOv8 and image processing to determine whether a bottle was made of glass, metal, or plastic. </br> |
-| [volume_calculator_for cargo_vending_machines ](https://github.com/kagansenkeser/My_Resume_real_projects/tree/main/3_volume_calculator_for_cargo_vending_machines)| <img src="https://media.giphy.com/media/rh0xsFuHUV2VWtLMLK/giphy.gif"/> |[Coming Soon](https://www.youtube.com/@kagansenkeserteknik) | I enhanced smart cargo vending machine by introducing a 'Pickup and Deliver' feature alongside the 'Pickup Only' function. I successfully developed a cost-effective, volume calculation system using camera and distance sensor. </br> |
-| [Detection_of_Industrial Yarn_Winding_Defects](https://github.com/kagansenkeser/My_Resume_real_projects/tree/main/5_Detection_of_Industrial_Yarn_Winding_Defects)| ![ezgif com-video-to-gif](https://github.com/kagansenkeser/My_Resume_real_projects/assets/98644514/6bd8a703-7455-49d1-81a6-abefeb1cc30a) |[Watch Now](https://www.youtube.com/watch?v=3dP_dV_y0lg) | I developed innovative software utilizing the YOLO algorithm and image processing techniques to enable real-time defect detection in coils. This project significantly contributed to enhancing production efficiency and optimizing quality control procedures within the textile industry. </br> |
-|___________________|______________________________|__________| ____________________________|
+### Embedded & Robotics
+
+- Raspberry Pi
+- Arduino
+- ABB RobotStudio
+- Universal Robots (UR)
+
+### Tools
+
+- Linux
+- Git
+- Bambu Studio
+
+---
+
+## Current Focus
+
+Currently building open-source projects inspired by real-world industrial machine vision applications.
+
+Upcoming repositories include:
+
+- Industrial Barcode Inspection
+- OCR Inspection System
+- Camera Calibration Toolkit
+- Industrial Measurement System
+- Template Matching Inspection
+- Defect Detection Toolkit
+
+---
+
+## Featured Projects
+
+🚧 This section is currently being rebuilt.
+
+New industrial machine vision projects will be published soon with:
+
+- Documentation
+- Source Code
+- Demonstration GIFs
+- Technical Explanations
+
+---
+
+## Contact
+
+📧 **Email**
+
+kagansenkeser@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/kagan-senkeser
