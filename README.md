@@ -2,51 +2,43 @@
 
 ### Machine Vision Engineer
 
-Machine Vision Engineer with hands-on experience in designing, developing, and integrating industrial vision systems for manufacturing automation. Passionate about computer vision, embedded vision, robotics, and AI-based inspection systems.
+Machine Vision Engineer with industrial experience in designing, developing, and integrating vision systems for manufacturing automation. My work focuses on industrial machine vision, computer vision, embedded vision, and AI-powered inspection systems.
 
 ---
 
 ## About Me
 
-- 🔍 Specialized in industrial machine vision and computer vision
-- 🤖 Experienced with industrial vision systems and manufacturing automation
-- 📷 Interested in optical systems, camera calibration, and image processing
-- 🧠 Developing AI-powered inspection solutions using deep learning
-- 🌱 Currently building an open-source industrial machine vision portfolio
+- 🔹 Machine Vision Engineer with hands-on industrial experience
+- 🔹 Experienced in developing machine vision applications for quality inspection and manufacturing automation
+- 🔹 Interested in industrial optics, camera calibration, image processing, and embedded vision systems
+- 🔹 Currently building an open-source portfolio inspired by real-world industrial machine vision applications
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-</p>
+### Programming
+
+- Python
+- C
 
 ### Computer Vision & AI
-<p>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-</p>
-
-**Libraries & Frameworks**
 
 - OpenCV
 - HALCON
 - YOLOv8 (Ultralytics)
 - MediaPipe
-- NumPy
-- TensorFlow
 - PyTorch
+- TensorFlow
 - Keras
+- NumPy
 
 ### Industrial Machine Vision
 
 - Cognex In-Sight
 - Keyence IV Series
 - Industrial Cameras
+- Smart Cameras
 - Camera Calibration
 - Optical Systems
 - Lighting Design
@@ -55,12 +47,20 @@ Machine Vision Engineer with hands-on experience in designing, developing, and i
 - OCR
 - Defect Detection
 
-### Embedded & Robotics
+### Embedded Systems
 
 - Raspberry Pi
 - Arduino
+- UART
+- SPI
+- I²C
+- GPIO
+
+### Robotics & Automation
+
 - ABB RobotStudio
 - Universal Robots (UR)
+- Machine Vision Integration
 
 ### Tools
 
@@ -70,31 +70,33 @@ Machine Vision Engineer with hands-on experience in designing, developing, and i
 
 ---
 
-## Current Focus
+## Featured Projects
 
-Currently building open-source projects inspired by real-world industrial machine vision applications.
+🚧 This section is currently under development.
 
-Upcoming repositories include:
+Upcoming repositories will include real-world industrial machine vision examples such as:
 
+- Camera Calibration Toolkit
 - Industrial Barcode Inspection
 - OCR Inspection System
-- Camera Calibration Toolkit
 - Industrial Measurement System
 - Template Matching Inspection
 - Defect Detection Toolkit
 
----
-
-## Featured Projects
-
-🚧 This section is currently being rebuilt.
-
-New industrial machine vision projects will be published soon with:
+Each project will include:
 
 - Documentation
 - Source Code
 - Demonstration GIFs
-- Technical Explanations
+- Technical Explanation
+
+---
+
+## Current Focus
+
+Currently developing high-quality open-source projects that demonstrate industrial machine vision concepts using OpenCV, Python, and embedded systems.
+
+The goal is to build a practical portfolio inspired by real manufacturing automation challenges while respecting industrial confidentiality.
 
 ---
 
@@ -102,8 +104,8 @@ New industrial machine vision projects will be published soon with:
 
 📧 **Email**
 
-kagansenkeser@gmail.com
+**kagansenkeser@gmail.com**
 
 💼 **LinkedIn**
 
-https://linkedin.com/in/kagan-senkeser
+**https://linkedin.com/in/kagan-senkeser**
